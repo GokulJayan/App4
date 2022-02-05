@@ -4,22 +4,39 @@
   
       UI Design: 
       
-      
-      
-2.Screenshots of my app:
+      ![image](https://user-images.githubusercontent.com/72083631/152638592-2bdd5422-99f7-4ea0-a01b-974fb575fe38.png)
 
-   1. Initial State
-      
-   ![image](https://user-images.githubusercontent.com/72083631/150506161-94315950-1c05-4a78-9eed-02c2a888d5d8.png)
 
-   2. Upcounting (7 times)
       
-   ![image](https://user-images.githubusercontent.com/72083631/150506206-a888ca85-1a60-41ba-aafd-19375ebf5321.png)
+      
+      
+2. Screenshots of my app:
 
-   3. Downcounting (1 time)
-      
-   ![image](https://user-images.githubusercontent.com/72083631/150506246-0a969c46-1111-457b-8c82-51b51171adb5.png)
 
-   4. Notes
+   1. First View
       
-   ![image](https://user-images.githubusercontent.com/72083631/150506395-271d1f0f-b382-46ca-81bd-d2f37168055a.png)
+   ![image](https://user-images.githubusercontent.com/72083631/152638621-cc550884-6a83-4346-b93b-aa067a8b45ad.png)
+
+   
+   2. Scrolled Horizontally to view remaining options
+      
+   ![image](https://user-images.githubusercontent.com/72083631/152638643-fec00558-be20-4435-b8d8-9a40aff2fb1c.png)
+   
+   
+   ![image](https://user-images.githubusercontent.com/72083631/152638704-56e1c2c4-6d8b-4bce-afcb-54865a7beca4.png)
+   ![image](https://user-images.githubusercontent.com/72083631/152638711-3313de47-a23a-4f42-98dd-7d8bf7903726.png)
+
+
+  
+   3. Activity Indicator for show all button
+      
+   ![image](https://user-images.githubusercontent.com/72083631/152638765-8e506fcd-de34-4ac0-bce8-e0fd5e6708cb.png)
+   ![image](https://user-images.githubusercontent.com/72083631/152638818-1d60d048-abd1-420f-a61c-3c66f45eccfc.png)
+
+
+
+   4. Modal View for popping AI assistant (On clicking AI assistant button)
+      
+      On clicking Go back, it will go to previous state
+      
+   ![image](https://user-images.githubusercontent.com/72083631/152638846-6eaa3e8b-877b-47ec-b499-8ebdfba6c847.png)
