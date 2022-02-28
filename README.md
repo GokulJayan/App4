@@ -28,7 +28,7 @@
 
 
   
-   3. Activity Indicator for show all button
+   3. Activity Indicator for showing all buttons
       
    ![image](https://user-images.githubusercontent.com/72083631/152638765-8e506fcd-de34-4ac0-bce8-e0fd5e6708cb.png)
    ![image](https://user-images.githubusercontent.com/72083631/152638818-1d60d048-abd1-420f-a61c-3c66f45eccfc.png)
